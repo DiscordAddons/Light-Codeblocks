@@ -1,1 +1,14 @@
-# Light-Codeblocks
+# Light Codeblocks
+Changes the color of Discord's codeblocks from dark to light.
+```css
+.markup-2BOw-j code {
+    background: #e1e2e3;
+    border: 1.5px solid white;
+}
+.hljs {
+    color: gray;
+}
+.markup-2BOw-j code {
+    color: gray;
+}
+```
